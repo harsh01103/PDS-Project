@@ -1,0 +1,11 @@
+"Model","AUC"
+"Logit",1
+"Probit",1
+"MLP (ANN)",1
+"Random Forest",0.9977
+"XGBoost",0.994
+"QDA",0.9917
+"LDA",0.9903
+"Bagged Trees",0.9833
+"Naive Bayes",0.9731
+"CART",0.9419
